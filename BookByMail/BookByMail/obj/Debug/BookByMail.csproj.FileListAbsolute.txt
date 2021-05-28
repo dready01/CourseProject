@@ -1,0 +1,53 @@
+D:\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe.config
+D:\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe
+D:\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.pdb
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csprojAssemblyReference.cache
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Form1.resources
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Properties.Resources.resources
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.GenerateResource.cache
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.CoreCompileInputs.cache
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.exe
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.pdb
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.registraciya.resources
+D:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.MainForm.resources
+E:\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe.config
+E:\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe
+E:\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.pdb
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csprojAssemblyReference.cache
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Form1.resources
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.MainForm.resources
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Properties.Resources.resources
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.registraciya.resources
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.GenerateResource.cache
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.exe
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.pdb
+E:\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.admin.resources
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe.config
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.pdb
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csprojAssemblyReference.cache
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.admin.resources
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Form1.resources
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.MainForm.resources
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Properties.Resources.resources
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.registraciya.resources
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.GenerateResource.cache
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.exe
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.pdb
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.oplata.resources
+C:\Users\arifi\Desktop\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.ResolveComReference.cache
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe.config
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.exe
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\bin\Debug\BookByMail.pdb
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csprojAssemblyReference.cache
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.ResolveComReference.cache
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.admin.resources
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Form1.resources
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.MainForm.resources
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.oplata.resources
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.Properties.Resources.resources
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.registraciya.resources
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.GenerateResource.cache
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.csproj.CoreCompileInputs.cache
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.exe
+F:\курсач 01\KursovoiTRPO\BookByMail\BookByMail\obj\Debug\BookByMail.pdb
